@@ -1,0 +1,32 @@
+﻿# Environments
+.venv/
+.wcca_profile/
+__pycache__/
+*.pyc
+.env
+*.env
+
+# IDE/project files
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+
+# Local data dumps and logs
+*.json
+*.csv
+*.db
+*.sqlite
+*.log
+*.har
+
+# Scratch directories
+/tmp/
+tmp/
+tmp_dir/
+test_tmp/
+debug/
+
+# Playwright/Browser state
+playwright-report/
+playwright/.launches/
